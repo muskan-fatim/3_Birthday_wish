@@ -31,6 +31,7 @@ const HandleConfetti = () => {
             border: "1px solid black",
             height: "70vh",
             width: "50vw", 
+             mini-width:,"50vw",
             margin: "0 auto",
             boxSizing: "border-box"}}>
             <h1>Happy birthday!</h1>
