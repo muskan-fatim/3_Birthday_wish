@@ -1,50 +1,5 @@
-.todoitem {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background-color: black;
-  border: 2px solid #ddd;
-  border-radius: 10px;
-  padding: 10px 20px;
-  margin-bottom: 15px;
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  width: 100%; 
-  max-width: 600px; 
-}
-
-.todoitem:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
-}
-
-.todoitem p {
-  font-size: 18px;
-  margin: 0;
-  color: green;
-}
-
-.delte {
-  background-color: #ff6b6b;
-  color: white;
-  border: none;
-  border-radius: 8px;
-  padding: 8px 12px;
-  cursor: pointer;
-  font-size: 14px;
-  transition: background-color 0.3s ease, transform 0.2s ease;
-}
-
-.delte:hover {
-  background-color: #ff4c4c;
-  transform: scale(1.05);
-}
-#task{
+   .balloon{
     display: flex;
     justify-content: center;
-    align-items: flex-start; 
-    min-height: 100vh; 
-    padding: 20px;
-  }
-  
 
+  }

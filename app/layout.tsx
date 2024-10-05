@@ -3,8 +3,8 @@ import "./globals.css";
 
 
 export const metadata: Metadata = {
-  title: "TODO list app",
-  description: "create a todo list ",
+  title: "Gift",
+  description: "gift card using nextjs",
 };
 
 export default function RootLayout({

@@ -1,9 +1,8 @@
-import Todo from "./todo/page"
+import Gift from "./giftcard/page"
 export default function Home(){
-return(
-  <div>
-    <Todo />
-  
-  </div>
-)
+    return(
+        <div>
+            <Gift />
+        </div>
+    )
 }
